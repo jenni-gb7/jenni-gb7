@@ -18,7 +18,8 @@ Mi nombre es Jennifer Marlene Gutiérrez Beteta, tengo 19 años, actualmente est
 Tengo conocimientos en lenguajes de programación como C y C++, estoy comenzando a aprender sonbre el lenguaje en Python.
 
 
-https://pin.it/31BHYFMlq
+![image](https://github.com/user-attachments/assets/33e37a36-77a4-4d2f-97e5-3864b3f375b9)
+
 
 En mis ratos libres, me gusta des
 <!---
