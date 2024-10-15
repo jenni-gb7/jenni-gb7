@@ -1,4 +1,4 @@
-https://pin.it/31BHYFMlq
+
 
 <!---
 jenni-gb7/jenni-gb7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
