@@ -18,10 +18,8 @@ Mi nombre es Jennifer Marlene Gutiérrez Beteta, tengo 19 años, actualmente est
 Tengo conocimientos en lenguajes de programación como C y C++, estoy comenzando a aprender sonbre el lenguaje en Python.
 
 
-              ![image](https://github.com/user-attachments/assets/33e37a36-77a4-4d2f-97e5-3864b3f375b9)
+![image](https://github.com/user-attachments/assets/aeadf543-fa7d-42a1-8b9e-d8a5683ea505)
 
-
-En mis ratos libres, me gusta des
 <!---
 jenni-gb7/jenni-gb7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
